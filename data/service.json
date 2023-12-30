@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Capturing Timeless Moments Package",
+        "price": "$2,500 - $5,000",
+        "image": "https://i.ibb.co/0GQfQDd/image-1.png",
+        "short_description": "Comprehensive coverage capturing the essence of your love story from engagement to reception."
+    },
+    {
+        "id": "2",
+        "name": "Engagement Sessions",
+        "price": "$500 - $1,000",
+        "image": "https://i.ibb.co/kGgRf1B/image-2.png",
+        "short_description": "Personalized photo sessions to capture the excitement and love between you and your partner."
+    },
+    {
+        "id": "3",
+        "name": "Customized Packages",
+        "price": "$600-$700",
+        "image": "https://i.ibb.co/rMsJSyJ/image-3.png",
+        "short_description": "Tailored packages to suit your unique needs and preferences, offering a variety of photography styles."
+    },
+    {
+        "id": "4",
+        "name": "High-Quality Edited Images",
+        "price": "$700-$800",
+        "image": "https://i.ibb.co/71cw3WC/image-4.png",
+        "short_description": "Meticulous editing process to ensure the final images are of the highest quality, enhancing the natural beauty of your moments."
+    },
+    {
+        "id": "5",
+        "name": "Online Gallery",
+        "price": "$900-$1000",
+        "image": "https://i.ibb.co/5kJwGg2/image-5.png",
+        "short_description": "Share beautiful memories with a private online gallery. Easily access, download, and print images from the comfort of your own home."
+    }
+]
